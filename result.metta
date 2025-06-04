@@ -1,27 +1,19 @@
 !(import! &self main)
-!(import! &nodes nodes.metta)
+(gene ENSG00000175793)
+(gene_type (gene ENSG00000175793) protein_coding)
+(chr (gene ENSG00000175793) chr1)
+(start (gene ENSG00000175793) 26863149)
+(end (gene ENSG00000175793) 26864456)
+(gene_name (gene ENSG00000175793) SFN)
+(synonyms (gene ENSG00000175793) (YWHAS SFN stratifin 14-3-3_protein_sigma epithelial_cell_marker_protein_1 HGNC:10773))
 
-; Define the function to write to CSV
-(= (write_csv_wrapper $space $file)
+(= (write_summary_wrapper $space $file)
     (let*
         (
-            ($atom (get-atoms $space))     ; Retrieve atoms from the space
-            ($av (getAv $atom))            ; Get associated values from the atom
+            ($atom (get-atoms $space))
+            ($av (getAv $atom))
         )
-        (write_to_csv ($atom $av) $file)  ; Call the write_to_csv function
+        (write_summary (($atom $av)) $file)
     )
 )
-
-; Define the function to summarize the CSV
-(= (summarize_csv_wrapper $space $file)
-    (let*
-        (
-            ($summary (summarize_csv $file))  ; Call the summarize_csv function
-        )
-        $summary  ; Return the summary result
-    )
-)
-
-; Execute the write and summarize functions
-!(write_csv_wrapper $space "nodes.metta")
-!(summarize_csv_wrapper $space "nodes.metta")
+!(write_summary_wrapper &self get_txt_file_name )

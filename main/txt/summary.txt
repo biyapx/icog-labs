@@ -1,0 +1,4 @@
+This data describes a gene, ENSG00000170027.  We know two things about it:
+
+1. It's a **protein-coding** gene.
+2. It's located on **chromosome 7** (chr7).

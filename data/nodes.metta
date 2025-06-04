@@ -29,8 +29,8 @@
 (end (gene ENSG00000108953) 1400222)
 (gene_name (gene ENSG00000108953) YWHAE)
 (synonyms (gene ENSG00000108953) (14-3-3_protein_epsilon protein_kinase_C_inhibitor_protein-1 tyrosine_3-monooxygenase/tryptophan_5-monooxygenase_activation_protein_epsilon tyrosine_3/tryptophan_5_-monooxygenase_activation_protein,_epsilon_polypeptide tyrosine_3-monooxygenase/tryptophan_5-monooxygenase_activation_protein,_epsilon_polypeptide YWHAE HEL2 HGNC:12851 14-3-3_epsilon MDS KCIP-1 epididymis_luminal_protein_2 14-3-3E mitochondrial_import_stimulation_factor_L_subunit MDCR))
-(gene ENSG00000166913)
 
+(gene ENSG00000166913)
 (gene_type (gene ENSG00000166913) protein_coding)
 (chr (gene ENSG00000166913) chr20)
 (start (gene ENSG00000166913) 44885702)

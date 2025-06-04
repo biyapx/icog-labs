@@ -1,0 +1,10 @@
+This data describes six human genes, all of which are protein-coding. Here's a summary of each gene:
+
+*   **SFN (ENSG00000175793):** Located on chromosome 1, its coordinates are from 26863149 to 26864456. Synonyms include YWHAS and stratifin.
+*   **YWHAQ (ENSG00000134308):** Located on chromosome 2, its coordinates are from 9583967 to 9630997. It's also known as 14-3-3 protein tau/theta.
+*   **YWHAG (ENSG00000170027):** Found on chromosome 7, spanning from 76326799 to 76358991. It has synonyms like PPP1R170 and 14-3-3 protein gamma.
+*   **YWHAE (ENSG00000108953):** Resides on chromosome 17, between 1344275 and 1400222. Alternative names include 14-3-3 protein epsilon and HEL2.
+*   **YWHAB (ENSG00000166913):** Located on chromosome 20, from 44885702 to 44908532. Synonyms include 14-3-3 protein beta/alpha and HEL-S-1.
+*   **YWHAH (ENSG00000128245):** Found on chromosome 22, from 31944522 to 31957603. It's also known as 14-3-3 protein eta.
+
+All of these genes have synonyms including "tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein". All except SFN have synonyms of "14-3-3 protein".

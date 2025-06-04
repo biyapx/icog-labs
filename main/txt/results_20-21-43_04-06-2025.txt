@@ -1,0 +1,17 @@
+This data describes six human genes: SFN, YWHAQ, YWHAG, YWHAE, YWHAB, and YWHAH. All six are protein-coding genes.
+
+Here's a breakdown of each gene, including its location and common synonyms:
+
+*   **SFN (ENSG00000175793):** Located on chromosome 1, it spans from position 26863149 to 26864456. Common synonyms include YWHAS, stratifin, and 14-3-3 protein sigma.
+
+*   **YWHAQ (ENSG00000134308):** Located on chromosome 2, from position 9583967 to 9630997. Frequently referred to as 14-3-3 protein tau or theta.
+
+*   **YWHAG (ENSG00000170027):** Found on chromosome 7, spanning positions 76326799 to 76358991. Synonyms include 14-3-3 protein gamma and KCIP-1.
+
+*   **YWHAE (ENSG00000108953):** Resides on chromosome 17, from 1344275 to 1400222. Commonly known as 14-3-3 protein epsilon or KCIP-1.
+
+*   **YWHAB (ENSG00000166913):** Located on chromosome 20, spanning 44885702 to 44908532.  Synonyms include 14-3-3 protein beta/alpha and KCIP-1.
+
+*   **YWHAH (ENSG00000128245):** Found on chromosome 22, from 31944522 to 31957603. Known as 14-3-3 protein eta.
+
+Notably, several of these genes are associated with the "14-3-3" family of proteins, which are known to play a role in diverse cellular processes. Also, KCIP-1 is a common synonym among YWHAG, YWHAE and YWHAB.

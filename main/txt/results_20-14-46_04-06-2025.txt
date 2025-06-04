@@ -1,0 +1,10 @@
+This data describes six protein-coding genes: SFN (ENSG00000175793), YWHAQ (ENSG00000134308), YWHAG (ENSG00000170027), YWHAE (ENSG00000108953), YWHAB (ENSG00000166913), and YWHAH (ENSG00000128245). Each entry details the gene's Ensembl ID, its location (chromosome, start, and end positions), its official gene symbol, and a list of synonyms. Specifically:
+
+*   **SFN (ENSG00000175793):** Located on chromosome 1, from position 26863149 to 26864456. Synonyms include YWHAS and stratifin.
+*   **YWHAQ (ENSG00000134308):** Located on chromosome 2, from position 9583967 to 9630997. Synonyms include 14-3-3 protein tau/theta.
+*   **YWHAG (ENSG00000170027):** Located on chromosome 7, from position 76326799 to 76358991. Synonyms include 14-3-3 protein gamma.
+*   **YWHAE (ENSG00000108953):** Located on chromosome 17, from position 1344275 to 1400222. Synonyms include 14-3-3 protein epsilon.
+*   **YWHAB (ENSG00000166913):** Located on chromosome 20, from position 44885702 to 44908532. Synonyms include 14-3-3 protein beta/alpha.
+*   **YWHAH (ENSG00000128245):** Located on chromosome 22, from position 31944522 to 31957603. Synonyms include 14-3-3 protein eta.
+
+All genes except SFN belong to the YWHA family and are also known as 14-3-3 proteins. Each entry provides information on the chromosomal location, start and end positions, the official gene name, and various alternative names (synonyms) for each gene.

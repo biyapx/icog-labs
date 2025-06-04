@@ -10,13 +10,3 @@
 (chr (gene ENSG00000108953) chr17)
 (start (gene ENSG00000108953) 1344275)
 (end (gene ENSG00000108953) 1400222)
-(= (write_csv_wrapper $space $file)
-    (let*
-        (
-            ($atom (get-atoms $space))
-            ($av (getAv $atom))
-        )
-        (write_to_csv (($atom $av)) $file)
-    )
-)
-!(hello world)
