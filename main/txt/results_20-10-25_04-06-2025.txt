@@ -1,8 +1,0 @@
-This data describes six human genes, all of which are protein-coding. Here's a summary of each gene:
-
-*   **ENSG00000175793 (SFN):** Located on chromosome 1. Also known as stratifin or 14-3-3 protein sigma.
-*   **ENSG00000134308 (YWHAQ):** Located on chromosome 2. Also known as 14-3-3 protein tau/theta.
-*   **ENSG00000170027 (YWHAG):** Located on chromosome 7. Also known as 14-3-3 protein gamma.
-*   **ENSG00000108953 (YWHAE):** Located on chromosome 17. Also known as 14-3-3 protein epsilon.
-*   **ENSG00000166913 (YWHAB):** Located on chromosome 20. Also known as 14-3-3 protein beta/alpha.
-*   **ENSG00000128245 (YWHAH):** Located on chromosome 22. Also known as 14-3-3 protein eta.
